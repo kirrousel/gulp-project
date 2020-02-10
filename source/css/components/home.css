@@ -1,0 +1,13 @@
+.home__subtitle {
+  position: relative;
+  padding-left: 40px;
+}
+.home__ico {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  width: 30px;
+  height: 30px;
+  fill: #fff;
+}

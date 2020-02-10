@@ -1,0 +1,10 @@
+.footer {
+  background-color: #ff261e;
+  color: blue;
+}
+
+.footer__text {
+  padding-left: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}

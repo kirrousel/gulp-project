@@ -1,0 +1,12 @@
+html
+  head
+    title Page
+    link(rel="stylesheet" type="text/css" href="./css/main.css")
+  body
+    span(style="position: absolute; top: 0; left: 0; width: 0; height: 0; z-index: -1;")
+      include ../sprite
+    div.content
+      block content
+
+    div.footer
+      include ../components/footer
